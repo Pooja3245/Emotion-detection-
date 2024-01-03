@@ -1,0 +1,15 @@
+step1:
+//use--> pip install -r Readme.txt--> command to install all the packages
+
+step2:
+there is pandas module use for data frames 
+like table-> 
+         image                       label
+         images/angry/pooja.png      angry
+         images/angry/p.png          angry
+
+  convert that images into array there is method intenserflow -->load_images(img.greyscale=TRUE)-->
+  load imges output will be unapair array and store in place to tarin the array/data.
+  
+step3:
+  downloaded face recognization dataset , by kaggle

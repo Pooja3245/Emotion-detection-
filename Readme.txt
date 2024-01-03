@@ -1,0 +1,9 @@
+TENSORFLOW
+KERAS
+pandas
+NUMPY
+JUPYTER
+NOTEBOOK
+TQDM
+OPENCV-contrib-python
+
